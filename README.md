@@ -1,5 +1,8 @@
 # Mimikatz NTLM-crack — lab
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Lab Only](https://img.shields.io/badge/Scope-Lab%20Only-blue)
+
 ## Prosjektpresentasjon
 Jeg opprettet en testbruker i et Windows-domene, hentet brukerens NTLM-hash med **Mimikatz**, og bekreftet passordet ved å cracke hashen med **John the Ripper** — alt i et lukket, fiktivt labmiljø.
 
